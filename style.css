@@ -1,8 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins&display=swap");
 
-
-p{  font-family: "Poppins", sans-serif;
-
+p {
+  font-family: "Poppins", sans-serif;
 }
 .top-text {
   font-family: "Poppins", sans-serif;
@@ -11,12 +10,23 @@ p{  font-family: "Poppins", sans-serif;
 .h1-head {
   color: #fa804c;
 }
-
+.head-section {
+  background-color: #fff9f4;
+  margin-bottom: 10rem;
+}
 .buy-btn {
   background: linear-gradient(180deg, #3d4ff3 0%, #3543bc 100%);
   border-radius: 10px;
 }
-.logo{
-    height: auto;
-    width: 250px;
+.logo {
+  height: auto;
+  width: 250px;
+}
+.card-bg {
+  background-color: #f1f1f1;
+}
+.casual {
+  height: 327px;
+  width: 334px;
+  border-radius: 20px;
 }
