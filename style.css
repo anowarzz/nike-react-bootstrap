@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins&display=swap");
+
+
+p{  font-family: "Poppins", sans-serif;
+
+}
+.top-text {
+  font-family: "Poppins", sans-serif;
+  font-family: "Bebas Neue", cursive;
+}
+.h1-head {
+  color: #fa804c;
+}
+
+.buy-btn {
+  background: linear-gradient(180deg, #3d4ff3 0%, #3543bc 100%);
+  border-radius: 10px;
+}
+.logo{
+    height: auto;
+    width: 250px;
+}
